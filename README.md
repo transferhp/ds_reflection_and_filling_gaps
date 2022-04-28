@@ -1,2 +1,33 @@
-# ds_reflection_and_filling_gaps
-This repository lists out resources that I found quite useful to reflect yourself and fill the gaps before you attending a data science interview.
+# :books: ds_reflection_and_filling_gaps
+
+This repository lists out all self-organised resources that I found quite useful to reflect myself and fill the gaps before attending a data science interview.
+
+:warning: The curated resources are created by considering my condition, which may not apply to others.
+
+----------
+
+**SQL**: [SQLBolt](https://sqlbolt.com) 
+
+> Used to quickly recall sql basics and intermediate topics with interactive exercises.
+
+
+**Coding**: [Leetcode](https://leetcode.com)
+
+> Used to practise computer science concepts, like data structure and algorithms. Not all company requires leetcode coding test, but at least it is required for trading company and top-tier technology company.
+
+
+**Machine Learning**: [imylu](https://github.com/tushushu/imylu)
+
+> Used to review classical/marjor machine learning algorithms and corresponding python code implementations.
+
+
+**Statistics**:
+
+- [Hypothesis test](https://towardsdatascience.com/hypothesis-testing-for-data-scientists-everything-you-need-to-know-8c36ddde4cd2)
+
+> Used to grasp basic concepts in stistical test.
+
+
+- [Distribution](https://towardsdatascience.com/5-probability-distribution-you-should-know-as-a-data-scientist-f8abc9522af0)
+
+> Used to go through common distributions applied in data science area.
