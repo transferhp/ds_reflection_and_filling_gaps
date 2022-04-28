@@ -31,3 +31,10 @@ This repository lists out all self-organised resources that I found quite useful
 - [Distribution](https://towardsdatascience.com/5-probability-distribution-you-should-know-as-a-data-scientist-f8abc9522af0)
 
 > Used to go through common distributions applied in data science area.
+
+
+**System Architecture Design**: 
+
+- [ML system design](https://towardsdatascience.com/how-to-answer-any-machine-learning-system-design-interview-question-a98656bb7ff0)
+
+> A template for answering any machine learning system design question at your next interview.
