@@ -34,7 +34,7 @@ This repository lists out all self-organised resources that I found quite useful
 
 
 **A/B testing**
--[A/B testing each data scientist should know](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
+- [A/B testing each data scientist should know](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
 
 > Used to explain A/B testing theory and end-to-end process.
 
