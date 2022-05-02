@@ -33,6 +33,12 @@ This repository lists out all self-organised resources that I found quite useful
 > Used to go through common distributions applied in data science area.
 
 
+**A/B testing**
+-[A/B testing each data scientist should know](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
+
+> Used to explain A/B testing theory and end-to-end process.
+
+
 **System Architecture Design**: 
 
 - [ML system design](https://towardsdatascience.com/how-to-answer-any-machine-learning-system-design-interview-question-a98656bb7ff0)
