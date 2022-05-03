@@ -16,9 +16,15 @@ This repository lists out all self-organised resources that I found quite useful
 > Used to practise computer science concepts, like data structure and algorithms. Not all company requires leetcode coding test, but at least it is required for trading company and top-tier technology company.
 
 
-**Machine Learning**: [imylu](https://github.com/tushushu/imylu)
+**Machine Learning**: 
+
+- [algorithm implementation from scratch](https://github.com/tushushu/imylu)
 
 > Used to review classical/marjor machine learning algorithms and corresponding python code implementations.
+
+- [metrics for imbalanced classification](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
+
+> Explain which metric to use for imbalance data set. TLDR: **use precision-recall curve for highly imbalanced data, use ROC curve when classes are balanced and it tells how model differentiates both classes**.
 
 
 **Statistics**:
