@@ -20,11 +20,15 @@ This repository lists out all self-organised resources that I found quite useful
 
 - [algorithm implementation from scratch](https://github.com/tushushu/imylu)
 
-> Used to review classical/marjor machine learning algorithms and corresponding python code implementations.
+> Used to review code implementation of classical/marjor machine learning algorithms (python).
 
 - [metrics for imbalanced classification](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
 
 > Explain which metric to use for imbalance data set. TLDR: **use precision-recall curve for highly imbalanced data, use ROC curve when classes are balanced and it tells how model differentiates both classes**.
+
+- [PCA](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
+> Step by step explainations on PCA process.
 
 
 **Statistics**:
